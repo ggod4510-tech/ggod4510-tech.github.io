@@ -16,20 +16,20 @@
       {
         "network": "GitHub",
         "username": "ggod4510-tech",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/ggod4510-tech"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Boston University",
+      "area": "B.A. in Astronomy and Physics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "startDate": "09/04/2023",
+      "endDate": "01/15/2027",
+      "gpa": 3.69,
+      "courses": [Introduction to Astronomy I, Introduction to Astronomy II, Stellar & Galactic Astrophysics, Planetary Physics, Solar & Space Physics, Galactic & Cosmological Physics, Modern Physics, Mathematical Methods of Theoretical Physics, Electrictiy & Magnetism I, Electricity & Magnetism II, Intermediate Mechanics, Quantum Physics I, Quantum Physics II, Thermal & Statistical Physics, Differential Equations]
     },
     {
       "institution": "GitHub University",
