@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "L. Clifton Johnson, Astronomer"
+title                    : "Abhinav Ghosh, Astrophysicist"
 title_separator          : "-"
-name                     : &name "L. Clifton Johnson"
-description              : &description "Research Assistant Professor and Zooniverse Director"
-url                      : https://lcjohnso.github.io/REUWebsite # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Abhinav Ghosh"
+description              : &description "Undergraduate Student at Boston University"
+url                      : https://ggod4510-tech.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lcjohnso/REUWebsite"
+repository               : "ggod4510-tech-github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,20 +23,20 @@ repository               : "lcjohnso/REUWebsite"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "L. Clifton Johnson"
+  name             : "Abhinav Ghosh"
   pronouns         : # "he/him"  
-  bio              : "Research Assistant Professor"
-  location         : "Chicago, IL"
-  employer         : "Northwestern University"
+  bio              : "Undergraduate Student"
+  location         : "Boston, MA"
+  employer         : "Boston University"
   uri              : # URL
-  email            : "lcj@northwestern.edu" 
+  email            : "ggod4510@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-6421-0953"
+  orcid            : #"https://orcid.org/0000-0001-6421-0953"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "lcjohnso"
+  github           : "ggod4510-tech"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "@lcjohnso.bsky.social" # Replace this with you Bluesky username
+  bluesky          : #"@lcjohnso.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "lcjastro"
+  linkedin         : #"lcjastro"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
