@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-#![HST image from PHAT of cluster, association, and galaxy](/images/galaxy#1.png)
+#![Andromeda Galaxy]({{ base_path }}/images/galaxy#1.png){:width="100"}
 
 ---------
 
