@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Andromeda Galaxy]({{ base_path }}/images/galaxy#1.png){:width="100"}
+![Andromeda_Galaxy]({{ base_path }}/images/galaxy#1.png){:width="100"}
 
 ---------
 
