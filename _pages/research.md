@@ -9,11 +9,11 @@ author_profile: true
 
 ## Introduction
 
-My REU summer research project (University of Hawaii, 2006) was to identify planetary nebulae in the nearby starburst galaxy M82, measure [OIII] emission line fluxes, and measure radial velicities from slitless spectroscopy observations from the FOCAS instrument on the Subaru Telescope.
+My REU summer research project (Northwestern University, 2026) was to identify the positions and velocities in spherical coordinates of binary stars in stellar streams, project them into the sky, and measure the phase space of velocities, eccentricity and apocenters, and mass versus eccentricity.
 
 ## Results
 
-Using an on-band/off-band filter technique, we identify 109 planetary nebulae (PNe) candidates. The use of ancillary high-resolution Hubble Space Telescope Hα imaging aided in confirming these candidates, helping to discriminate PNe from contaminants such as supernova remnants and compact HII regions. Radial velocities were measured for 94 of these PNe. The galaxy rotation derived from PNe velocities agrees with those derived by CO(2-1) and H I measurements that show a falling, near-Keplerian rotation curve. In addition, [OIII] emission-line photometry allows us to construct the planetary nebula luminosity function (PNLF) for the galaxy. Our distance determination for M 82, deduced from the observed PNLF, yields a larger distance than those derived using the tip of the red giant branch technique, using Cepheid variable stars in nearby group member M 81, or using the PNLF of M 81. We show that this inconsistency most likely stems from our inability to completely correct for internal extinction imparted by this dusty, starburst galaxy.
+
 
 ## Presentations & Publication
 
