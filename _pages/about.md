@@ -20,7 +20,7 @@ My current research focuses on understanding the properties of globular clusters
 
 Example -- adding an image hosted locally:
 
-#![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
+![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
 
 Example -- adding an image hosted remotely:
 
