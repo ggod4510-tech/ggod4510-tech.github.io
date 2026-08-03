@@ -1,31 +1,21 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Abhinav Ghosh",
+    "email": "ggod4510@gmail.com",
+    "phone": "848-668-3080",
+    "website": "https://ggod4510-tech.github.io",
+    "summary": "Currently an undergraduate student at Boston University. Short biography for the left-hand sidebar",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "725 Commonwealth Avenue, Boston, MA 02215",
+      "postalCode": "02215",
       "city": "Earth",
       "countryCode": "US",
-      "region": ""
+      "region": "North America"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
+        "username": "ggod4510-tech",
         "url": "https://github.com/academicpages"
       }
     ]
