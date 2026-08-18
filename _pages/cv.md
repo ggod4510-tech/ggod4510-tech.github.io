@@ -20,7 +20,6 @@ author_profile: true
 ### {{ edu.institution }} — {{ edu.area }}
 {{ edu.startDate }} — {{ edu.endDate }}
 {% if edu.gpa %}GPA: {{ edu.gpa }}{% endif %}
-
 {% endfor %}
 {% else %}
 _No education entries found._
