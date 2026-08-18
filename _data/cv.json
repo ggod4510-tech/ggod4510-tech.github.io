@@ -8,8 +8,8 @@
     "location": {
       "address": "725 Commonwealth Avenue, Boston, MA 02215",
       "postalCode": "02215",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Boston",
+      "countryCode": "+1",
       "region": "North America"
     },
     "profiles": [
@@ -32,7 +32,7 @@
       "courses": ["Introduction to Astronomy I", "Introduction to Astronomy II", "Stellar & Galactic Astrophysics", "Planetary Physics", "Solar & Space Physics", "Galactic & Cosmological Physics", "Modern Physics", "Mathematical Methods of Theoretical Physics", "Electrictiy & Magnetism I", "Electricity & Magnetism II", "Intermediate Mechanics", "Quantum Physics I", "Quantum Physics II", "Thermal & Statistical Physics", "Differential Equations"]
     },
   ],
-  "skills": [Science Communication, ],
+  "skills": [Science Communication, Linux Command Line, Applied Math, Spectroscopy, Photometry, Python Coding],
   "languages": [],
   "interests": [],
   "references": [],
@@ -68,13 +68,5 @@
       "description": ""
     },
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
   ]
 }
