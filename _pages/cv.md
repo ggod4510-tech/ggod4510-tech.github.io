@@ -20,7 +20,14 @@ author_profile: true
 ### {{ edu.institution }} — {{ edu.area }}
 {{ edu.startDate }} — {{ edu.endDate }}
 {% if edu.gpa %}GPA: {{ edu.gpa }}{% endif %}
-{% if edu.courses and edu.courses.size > 0 %} Relevant coursework: {% for c in edu.courses %}
+
+{% if edu.courses and edu.courses.size > 0 %}
+**Relevant coursework:**
+{% for c in edu.courses %}
+- {{ c }}
+{% endfor %}
+{% endif %}
+
 {% endfor %}
 {% else %}
 _No education entries found._
