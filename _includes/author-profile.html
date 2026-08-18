@@ -19,7 +19,9 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-
+  <div style="text-align: center;">
+  <img class="author__avatar" src="{{ site.author.avatar | prepend: site.baseurl }}" alt="Profile">
+  </div>
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
