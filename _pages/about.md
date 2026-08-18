@@ -14,13 +14,9 @@ redirect_from:
 
 My name is Abhinav Ghosh and I am an undergraduate student at [Boston University](https://www.bu.edu/homepage-alt/) in the [Dept. of Physics and Astronomy](https://www.bu.edu/astronomy/).
 
-My current research focuses on understanding the properties of globular clusters star by star ranging through the study of binary stars in stellar streams. Specifically, I study the mass, age, magnitude, and evolution of globular clusters, by focusing on the positions and velocities, mass, age, and metallicity of binary stars in stellar streams. Citizen science and crowdsourcing are important tools in my research.
+My current research focuses on understanding the properties of GC stellar streams through the study of binary stars and how well Gaia can detect the binary systems. Specifically, I am looking at the spatial distribution, eccentricity, semimajor axis, tangential velocities, proper motions and periods of binary stars in simulations of globular clusters.
 
 #Publications List: [via ADS](https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0001-6421-0953&sort=date%20desc%2C%20bibcode%20desc)
-
-Example -- adding an image hosted locally:
-
-![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
 
 Example -- adding an image hosted remotely:
 
