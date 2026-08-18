@@ -13,7 +13,6 @@ My REU summer research project (Northwestern University, 2026) was to extract th
 
 ## Results
 Overall there are a variety of binary systems; most lie in the densest region of the stellar stream, and Gaia may be able to detect a significant fraction of them based on their proper motion and orbital periods, depending on their distance. Most of the stars are still in the stages before stellar death. Future work will need to examine how binary-star velocities affect the velocity dispersion and investigate the correlation of the binary populations within stellar streams, their orbits within the galaxy, and the original globular cluster.
-#<img width="14337" height="123" alt="image" src="https://github.com/user-attachments/assets/577a3eb1-ec65-4ec7-9307-c9e0a2095251" />
 
 
 
