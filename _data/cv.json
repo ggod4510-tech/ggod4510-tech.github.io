@@ -9,7 +9,7 @@
       "address": "725 Commonwealth Avenue, Boston, MA 02215",
       "postalCode": "02215",
       "city": "Boston",
-      "countryCode": "+1",
+      "countryCode": "US",
       "region": "North America"
     },
     "profiles": [
@@ -29,10 +29,24 @@
       "startDate": "09/04/2023",
       "endDate": "01/15/2027",
       "gpa": 3.69,
-      "courses": ["Introduction to Astronomy I", "Introduction to Astronomy II", "Stellar & Galactic Astrophysics", "Planetary Physics", "Solar & Space Physics", "Galactic & Cosmological Physics", "Modern Physics", "Mathematical Methods of Theoretical Physics", "Electrictiy & Magnetism I", "Electricity & Magnetism II", "Intermediate Mechanics", "Quantum Physics I", "Quantum Physics II", "Thermal & Statistical Physics", "Differential Equations"]
-    },
+      "courses": [
+        "Introduction to Astronomy I",
+        "Introduction to Astronomy II",
+        "Stellar & Galactic Astrophysics",
+        "Planetary Physics",
+        "Solar & Space Physics",
+        "Galactic & Cosmological Physics"
+      ]
+    }
   ],
-  "skills": [Science Communication, Linux Command Line, Applied Math, Spectroscopy, Photometry, Python Coding],
+  "skills": [
+    "Science Communication",
+    "Linux Command Line",
+    "Applied Math",
+    "Spectroscopy",
+    "Photometry",
+    "Python Coding"
+  ],
   "languages": [],
   "interests": [],
   "references": [],
@@ -66,7 +80,6 @@
       "date": "2014-02-01",
       "location": "London, UK",
       "description": ""
-    },
-  ],
+    }
   ]
 }
