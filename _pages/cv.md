@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Abhinav Ghosh",
+    "email": "ggod4510@gmail.com",
+    "phone": "848-668-3080",
+    "website": "https://ggod4510-tech.github.io",
+    "summary": "Currently an undergraduate student at Boston University. Short biography for the left-hand sidebar",
+    "location": {
+      "address": "725 Commonwealth Avenue, Boston, MA 02215",
+      "postalCode": "02215",
+      "city": "Boston",
+      "countryCode": "+1",
+      "region": "North America"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ggod4510-tech",
+        "url": "https://github.com/ggod4510-tech"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Boston University",
+      "area": "B.A. in Astronomy and Physics",
+      "studyType": "",
+      "startDate": "09/04/2023",
+      "endDate": "01/15/2027",
+      "gpa": 3.69,
+      "courses": ["Introduction to Astronomy I", "Introduction to Astronomy II", "Stellar & Galactic Astrophysics", "Planetary Physics", "Solar & Space Physics", "Galactic & Cosmological Physics", "Modern Physics", "Mathematical Methods of Theoretical Physics", "Electrictiy & Magnetism I", "Electricity & Magnetism II", "Intermediate Mechanics", "Quantum Physics I", "Quantum Physics II", "Thermal & Statistical Physics", "Differential Equations"]
+    },
+  ],
+  "skills": [Science Communication, Linux Command Line, Applied Math, Spectroscopy, Photometry, Python Coding],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "http://academicpages.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 2",
+      "publisher": "GitHub Journal of Bugs",
+      "releaseDate": "2024-02-17",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about fixing template issue #693."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Talk 2 on Relevant Topic in Your Field",
+      "event": "London School of Testing",
+      "date": "2014-02-01",
+      "location": "London, UK",
+      "description": ""
+    },
+  ],
+  ]
+}
