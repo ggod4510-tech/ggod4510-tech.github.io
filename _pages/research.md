@@ -19,17 +19,3 @@ As of now, it is unknown to what extent binary stars affect the velocity dispers
     is poorly constrained and doesn't consider how this varies across densities of streams and internal evolution of the stream. In high-density streams,
     however there is a more thicker distribution of stars more often than the low-density along the entire stream and can end up wide apart, however this is a very imprecise
     observation. An overall trend can be observed that the binary stars tend to scatter far less than the single stars.
-
-
-
-## Presentations & Publication
-
-#I presented initial results as a poster at the 209th Meeting of the American Astronomical Society: [Poster 156.02](https://ui.adsabs.harvard.edu/#abs/2006AAS...20915602J/abstract).
-
-#I completed additional analysis as part of an undergraduate honors thesis and presented the following poster at the 2007 Colby College Undergraduate Research #Symposium:
-
-#![2007 M82 PNe Research Poster]({{ base_path }}/images/m82pne_poster.png)
-
-#Download: [PDF]({{ base_path }}/files/m82pne_poster.pdf)
-
-#I published these results in [Johnson et al. 2009, ApJ, 697, 1138](https://dx.doi.org/10.1088/0004-637X/697/2/1138).
