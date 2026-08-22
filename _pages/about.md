@@ -14,4 +14,4 @@ redirect_from:
 
 My name is Abhinav Ghosh and I am an undergraduate student at [Boston University](https://www.bu.edu/homepage-alt/) in the [Dept. of Physics and Astronomy](https://www.bu.edu/astronomy/).
 
-My current research focuses on understanding the properties of GC stellar streams through the study of binary stars and how well Gaia can detect the binary systems. Specifically, I am looking at the spatial distribution, eccentricity, semimajor axis, tangential velocities, proper motions and periods of binary stars in simulations of globular clusters.
+My current research focuses on understanding the properties of GC stellar streams through the study of binary stars and how well Gaia can detect the binary systems. Specifically, I am looking at the spatial distribution, eccentricity, semimajor axis, tangential velocities, proper motions and periods of escaped binary stars in simulations of globular clusters that are evolving internally and orbiting the Milky Way over billions of years.
